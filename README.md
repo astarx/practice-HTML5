@@ -1,8 +1,8 @@
-# Lern About HTML 
+# Learn About HTML 
 
 ####Q. What is HTML5?
 
-A. Hyper text Markup Language, a standardized system for tagging text files to achieve
+A. Hyper-text Markup Language, a standardized system for tagging text files to achieve
 font, colour, graphic, and hyperlink effects on World Wide Web pages.
 
 ######Page Sections: 
